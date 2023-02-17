@@ -10,9 +10,14 @@
 
 <hr>
 
+How to get cookie
+Type in console on Skillshare website:
+
+> document.cookie
+
 ## Disclaimer
 
 I will not be responsible for how you use Skillshare-DL
 Although the downloaded files are not the contents themselves, accessing or storing these files might still be illegal in some parts of the world. So, take great care when using this tool and make sure that it is legal.
 
-*******ALL CREDITS TO KENWAY AND ANYONE ELSE WHO CONTRIBUTED TO CODE*******
+**\*\*\***ALL CREDITS TO KENWAY AND ANYONE ELSE WHO CONTRIBUTED TO CODE**\*\*\***
